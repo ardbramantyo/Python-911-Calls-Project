@@ -147,3 +147,6 @@ Then, I created the same variable using Date of Week and Month to get this infor
 
 ![image](https://user-images.githubusercontent.com/37673834/168407469-d31bd581-ab9c-4fe3-a643-60032295b3b6.png)
 ![image](https://user-images.githubusercontent.com/37673834/168407479-c9133300-a2fc-4fb1-958d-5d91e632b5e5.png)
+
+## REFERENCE
+1. https://www.kaggle.com/datasets/mchirico/montcoalert
