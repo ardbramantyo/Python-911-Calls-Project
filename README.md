@@ -25,7 +25,7 @@ The results are:
 ![image](https://user-images.githubusercontent.com/37673834/168406920-41f870cf-c5f2-4704-8081-a01ce132d051.png)
 
 Then another analysis to get top 5 townships (twp) for 911 calls information using:
-df['twp'].value_counts().head(5)
+```ruby df['twp'].value_counts().head(5) ```
 
 ![image](https://user-images.githubusercontent.com/37673834/168407074-e3f4dd49-070e-4579-9e64-462b6a6dec77.png)
 
