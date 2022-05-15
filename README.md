@@ -17,7 +17,9 @@ Based on analysis using df.info(), the data contain 663522 rows with 9 columns, 
 ####    •	e: String variable, Dummy variable (always 1)
 
 Further analysis was conducted to get insight on top 5 zipcodes for 911 calls using:
+```ruby
 df['zip'].value_counts().head(5)
+```
 The results are:
 
 ![image](https://user-images.githubusercontent.com/37673834/168406920-41f870cf-c5f2-4704-8081-a01ce132d051.png)
