@@ -8,15 +8,15 @@ Data Resource: [Kaggle](https://www.kaggle.com/datasets/mchirico/montcoalert)
 ![image](https://user-images.githubusercontent.com/37673834/168406846-f5f509fe-90d5-4647-961d-abb54241630c.png)
 
 Based on analysis using df.info(), the data contain 663522 rows with 9 columns, there are:
-####    • lat: String variable, Latitude
-####    • lng: String variable, Longitude
-####    •	desc: String variable, Description of the Emergency Call
-####    •	zip: String variable, Zipcode
-####    •	title: String variable, Title
-####    •	timeStamp: String variable, YYYY-MM-DD HH:MM
-####    •	twp: String variable, Township
-####    •	addr: String variable, Address
-####    •	e: String variable, Dummy variable (always 1)
+ - lat: String variable, Latitude
+ - lng: String variable, Longitude
+ - desc: String variable, Description of the Emergency Call
+ - zip: String variable, Zipcode
+ - title: String variable, Title
+ - timeStamp: String variable, YYYY-MM-DD HH:MM
+ - twp: String variable, Township
+ - addr: String variable, Address
+ - e: String variable, Dummy variable (always 1)
 
 Further analysis was conducted to get insight on top 5 zipcodes for 911 calls using:
 ```ruby
